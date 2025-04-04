@@ -25,9 +25,9 @@ Provides a consistent and modular UI design for all pages, reducing redundancy a
 AWT (Abstract Window Toolkit)
 Enhances the visual and interactive components of the application for a better user experience.
 
-Technologies Used
+# Technologies Used
 
-Frontend & Backend:
+# Frontend & Backend:
 
 C#
 
