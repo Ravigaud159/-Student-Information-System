@@ -9,8 +9,11 @@ A C# and .NET Framework-based Student Information System using ASP.NET Web Forms
 Key Features
 
 ✅ User Authentication – Secure registration and login system
+
 ✅ Manage Student Records – Add, view, and store student details
+
 ✅ SQL Database Integration – Persistent storage with SQL Server
+
 ✅ ASP.NET Web Forms & Master Pages – Consistent UI design
 
 Technologies Used
