@@ -1,5 +1,5 @@
 
-
+"C:\Users\rahul\OneDrive\Desktop\OneDrive\Pictures\Screenshots\vinod gaud khatauni.png"
 # Student Information System – ASP.NET | C# | SQL Server
 
 The Student Information System is a web-based application developed using C# and the .NET Framework with ASP.NET Web Forms, designed to manage and store student records securely and efficiently. The project also leverages SQL Server for persistent data storage and features a clean, user-friendly interface enhanced through Master Pages and AWT elements.
